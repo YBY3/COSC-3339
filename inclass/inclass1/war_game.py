@@ -11,6 +11,8 @@
 # Global variables used to create a new deck
 suit = ["Clubs", "Diamonds", "Hearts", "Spades", "Tacos"]
 face = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+funvar1 = "really important" 
+# Ignore
 
 import random
 
@@ -269,7 +271,11 @@ class War_Player:
 
 def main():
 
+<<<<<<< HEAD
     print(funvar)
+=======
+    print(funvar1)
+>>>>>>> branch_2
 
     my_game = War_Game(4)
     print("Time to play the game!")
