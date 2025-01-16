@@ -271,11 +271,7 @@ class War_Player:
 
 def main():
 
-<<<<<<< HEAD
     print(funvar)
-=======
-    print(funvar1)
->>>>>>> branch_2
 
     my_game = War_Game(4)
     print("Time to play the game!")
