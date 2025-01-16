@@ -271,7 +271,7 @@ class War_Player:
 
 def main():
 
-    print(funvar)
+    print(funvar1)
 
     my_game = War_Game(4)
     print("Time to play the game!")
