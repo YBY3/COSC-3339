@@ -53,6 +53,9 @@ class Card:
     def __str__(self):
         return "%s of %s" % (self.face, self.suit)
 
+    def doesnotmatter():
+        pass
+
 
 class Deck:
 
