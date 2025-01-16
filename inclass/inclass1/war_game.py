@@ -267,6 +267,8 @@ class War_Player:
 
 def main():
 
+    print(funvar)
+
     my_game = War_Game(4)
     print("Time to play the game!")
     print("First we must do testing!")
