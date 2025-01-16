@@ -9,9 +9,8 @@
 # I am adding a comment here, really important
 
 # Global variables used to create a new deck
-face = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 suit = ["Clubs", "Diamonds", "Hearts", "Spades", "Tacos"]
-
+face = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
 import random
 
